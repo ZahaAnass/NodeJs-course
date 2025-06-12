@@ -1,0 +1,17 @@
+{
+  "name": "13--npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13- npm command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "lodash": "^4.17.21"
+  }
+}
